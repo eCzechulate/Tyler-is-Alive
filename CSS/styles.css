@@ -1,0 +1,27 @@
+  body {
+    background-color: #394a6d ;
+    color: #70c6c7;
+
+  }
+
+  a{
+    color: #eff669;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    height: 0;
+    border-color: #52de97;
+    width: 15%;
+  }
+
+  text{
+    text-decoration-color: #70c6c7;
+  }
+
+/*******************************CLASS SELECTORS*******************************/
+.feetimage:hover {
+  content: url("https://agrainofsalt1.files.wordpress.com/2017/08/feelings.png")
+}
